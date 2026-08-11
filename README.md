@@ -329,12 +329,3 @@ Before you submit, your GitHub should show:
 ✅ docs/
    ✅ graph-model.png
 ```
-
-**Do NOT add:**
-
-```text
-❌ .env
-❌ CognoDB password
-❌ API keys
-❌ unnecessary files
-```

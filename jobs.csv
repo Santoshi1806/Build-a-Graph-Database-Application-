@@ -1,0 +1,11 @@
+id,title,location,company_id
+J001,Data Analyst,Hyderabad,C002
+J002,Data Scientist,Hyderabad,C001
+J003,Machine Learning Engineer,Bangalore,C003
+J004,Generative AI Engineer,Hyderabad,C003
+J005,Computer Vision Engineer,Pune,C004
+J006,BI Analyst,Hyderabad,C005
+J007,AI Engineer,Bangalore,C006
+J008,Data Engineer,Chennai,C007
+J009,Deep Learning Engineer,Pune,C008
+J010,NLP Engineer,Hyderabad,C003

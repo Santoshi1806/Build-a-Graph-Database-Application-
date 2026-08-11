@@ -1,0 +1,21 @@
+id,name,category
+S001,Python,Programming
+S002,SQL,Database
+S003,Machine Learning,AI
+S004,Deep Learning,AI
+S005,Power BI,Analytics
+S006,Statistics,Mathematics
+S007,NLP,AI
+S008,Computer Vision,AI
+S009,Generative AI,AI
+S010,LangChain,AI
+S011,Excel,Analytics
+S012,Data Visualization,Analytics
+S013,TensorFlow,Deep Learning
+S014,OpenCV,Computer Vision
+S015,Data Analysis,Analytics
+S016,Pandas,Programming
+S017,NumPy,Programming
+S018,Scikit-learn,Machine Learning
+S019,PyTorch,Deep Learning
+S020,Streamlit,Development
